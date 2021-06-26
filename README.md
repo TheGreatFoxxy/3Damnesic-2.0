@@ -1,4 +1,4 @@
-# 3Damnesic (Abandoned)
+# 3Damnesic (Continued by Foxxy! ;) )
 
 A Work In Progress media player for 3ds using ffmpeg !
 
